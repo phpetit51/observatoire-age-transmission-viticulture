@@ -1,0 +1,56 @@
+zone;departement_code;indicateur;valeur;unite;annee;champ;source_ref;source
+Grand Est;;Exploitations dirigees par au moins un exploitant de plus de 60 ans;10585;exploitations;2020;Toutes specialisations, hors pacages collectifs;1;Agreste Grand Est, Etudes n 2, juin 2022
+Grand Est;;Part des exploitations dirigees par au moins un exploitant de plus de 60 ans;25;%;2020;Toutes specialisations;1;Agreste Grand Est, Etudes n 2, juin 2022 (une sur quatre)
+Grand Est;;Part des exploitations avec exploitant de plus de 60 ans specialisees en viticulture;40;% (pres de);2020;Exploitations avec exploitant de plus de 60 ans;1;Agreste Grand Est, Etudes n 2, juin 2022
+Grand Est;;Surface en viticulture des exploitations avec exploitant de plus de 60 ans (sur 597 500 ha au total);18900;ha;2020;Exploitations avec exploitant de plus de 60 ans;1;Agreste Grand Est, Etudes n 2, juin 2022
+Grand Est;;Part sans depart du chef envisage pour l'instant, exploitations viticoles avec exploitant de plus de 60 ans;43;%;2020;Viticulture;1;Agreste Grand Est, Etudes n 2, juin 2022
+Grand Est;;Part sans depart du chef envisage pour l'instant, ensemble des exploitations avec exploitant de plus de 60 ans;36;%;2020;Toutes specialisations;1;Agreste Grand Est, Etudes n 2, juin 2022
+Grand Est;;Part des repondants ne sachant pas le devenir a trois ans;28;%;2020;Toutes specialisations, exploitant de plus de 60 ans;1;Agreste Grand Est, Etudes n 2, juin 2022
+Grand Est;;Part avec transmission projetee;30;%;2020;Toutes specialisations, exploitant de plus de 60 ans;1;Agreste Grand Est, Etudes n 2, juin 2022
+Grand Est;;Part avec disparition au profit de l'agrandissement d'autres exploitations;5;%;2020;Toutes specialisations, exploitant de plus de 60 ans;1;Agreste Grand Est, Etudes n 2, juin 2022
+Marne;51;Part des exploitants de 55 ans ou plus;45;%;2020;Toutes specialisations, chefs et coexploitants;1;Agreste Grand Est, Etudes n 2, juin 2022
+Grand Est;;Part des exploitations viticoles dont le chef a plus de 60 ans evoquant un projet de reprise;25;% (une sur quatre);2020;Viticulture;3;Agreste Grand Est, Panorama du recensement agricole 2020, devenir de l'exploitation
+Grand Est;;Part des exploitations viticoles dont le chef a plus de 60 ans evoquant un projet de reprise;57;%;2010;Viticulture;3;Agreste Grand Est, Panorama du recensement agricole 2020, devenir de l'exploitation
+Aube;10;Taux de renouvellement en viticulture (installes 2010-2020 / exploitants de 60 ans et plus en 2010);1,5;ratio (superieur a);2020;Viticulture;3;Agreste Grand Est, Panorama du recensement agricole 2020, devenir de l'exploitation
+Grand Est;;Hausse de l'age moyen des conjoints coexploitants en viticulture 2010-2020;4,2;ans;2020;Viticulture;2;Agreste Grand Est, Panorama du recensement agricole 2020, vieillissement
+Grand Est;;Viticulteurs (activite principale declaree a la MSA);8920;personnes;2019;Non-salaries agricoles hors cotisants solidaires (texte, 8 917 au tableau 3);4;Agreste Grand Est, Dossiers n 1, juin 2021 (avec MSA)
+Marne;51;Viticulteurs (activite principale declaree a la MSA);5269;personnes;2019;Non-salaries agricoles hors cotisants solidaires;4;Agreste Grand Est, Dossiers n 1, juin 2021 (avec MSA)
+Aube;10;Viticulteurs (activite principale declaree a la MSA);1711;personnes;2019;Non-salaries agricoles hors cotisants solidaires;4;Agreste Grand Est, Dossiers n 1, juin 2021 (avec MSA)
+Grand Est;;Age moyen des viticulteurs;49,8;ans;2019;MSA;4;Agreste Grand Est, Dossiers n 1, juin 2021 (avec MSA)
+Grand Est;;Age moyen des viticulteurs;48,1;ans;2011;MSA;4;Agreste Grand Est, Dossiers n 1, juin 2021 (avec MSA)
+Marne;51;Departs de viticulteurs 2011-2018;2269;personnes;2011-2018;MSA;4;Agreste Grand Est, Dossiers n 1, juin 2021 (avec MSA)
+Aube;10;Departs de viticulteurs 2011-2018;629;personnes;2011-2018;MSA;4;Agreste Grand Est, Dossiers n 1, juin 2021 (avec MSA)
+Marne;51;Taux de releve en viticulture (installes de l'annee, transferts entre epoux compris / sorties de l'annee), debut de periode;68;%;2011-2013;MSA;4;Agreste Grand Est, Dossiers n 1, juin 2021 (avec MSA)
+Marne;51;Taux de releve en viticulture (installes de l'annee, transferts entre epoux compris / sorties de l'annee), fin de periode;53;%;2016-2018;MSA;4;Agreste Grand Est, Dossiers n 1, juin 2021 (avec MSA)
+Grand Est;;Departs projetes de viticulteurs 2019-2029;4631;personnes;2019-2029;Projection : simulation SRISE DRAAF Grand Est d'apres la MSA, installations constantes (moyenne 2016-2018);4;Agreste Grand Est, Dossiers n 1, juin 2021 (avec MSA)
+Marne;51;Departs projetes de viticulteurs 2019-2029;2769;personnes;2019-2029;Projection : simulation SRISE DRAAF Grand Est d'apres la MSA, installations constantes (moyenne 2016-2018);4;Agreste Grand Est, Dossiers n 1, juin 2021 (avec MSA)
+Marne;51;Part des viticulteurs 2019 concernes par un depart projete;53;%;2019-2029;Projection : simulation SRISE DRAAF Grand Est d'apres la MSA, installations constantes (moyenne 2016-2018);4;Agreste Grand Est, Dossiers n 1, juin 2021 (avec MSA)
+Aube;10;Departs projetes de viticulteurs 2019-2029;856;personnes;2019-2029;Projection : simulation SRISE DRAAF Grand Est d'apres la MSA, installations constantes (moyenne 2016-2018);4;Agreste Grand Est, Dossiers n 1, juin 2021 (avec MSA)
+Aube;10;Part des viticulteurs 2019 concernes par un depart projete;50;%;2019-2029;Projection : simulation SRISE DRAAF Grand Est d'apres la MSA, installations constantes (moyenne 2016-2018);4;Agreste Grand Est, Dossiers n 1, juin 2021 (avec MSA)
+Grand Est;;Part des viticulteurs (arboriculture incluse) de 55 ans ou plus;40;%;2022;Agriculteurs exploitants en emploi (recensement de la population);5;Insee Analyses Grand Est n 218, juin 2026
+Marne;51;Part des viticulteurs (arboriculture incluse) de 55 ans ou plus;43;%;2022;Agriculteurs exploitants en emploi (recensement de la population);5;Insee Analyses Grand Est n 218, juin 2026
+Aube;10;Part des viticulteurs (arboriculture incluse) de 55 ans ou plus;33;%;2022;Agriculteurs exploitants en emploi (recensement de la population);5;Insee Analyses Grand Est n 218, juin 2026
+Marne;51;Part des exploitants de 55 ans ou plus (toutes specialisations);42;%;2022;Agriculteurs exploitants en emploi (recensement de la population);5;Insee Analyses Grand Est n 218, juin 2026
+Bourgogne-Franche-Comte;;Exploitations viticoles;3400;exploitations;2020;Exploitations viticoles;6;Agreste Bourgogne-Franche-Comte, Etudes n 66, septembre 2023
+Bourgogne-Franche-Comte;;Surface en vignes des exploitations viticoles;35700;ha;2020;Exploitations viticoles;6;Agreste Bourgogne-Franche-Comte, Etudes n 66, septembre 2023
+Cote-d'Or;21;Exploitations viticoles;1067;exploitations;2020;Exploitations viticoles;6;Agreste Bourgogne-Franche-Comte, Etudes n 66, septembre 2023
+Cote-d'Or;21;Surface en vignes;9950;ha;2020;Exploitations viticoles;6;Agreste Bourgogne-Franche-Comte, Etudes n 66, septembre 2023
+Saone-et-Loire;71;Exploitations viticoles;1283;exploitations;2020;Exploitations viticoles;6;Agreste Bourgogne-Franche-Comte, Etudes n 66, septembre 2023
+Saone-et-Loire;71;Surface en vignes;13720;ha;2020;Exploitations viticoles;6;Agreste Bourgogne-Franche-Comte, Etudes n 66, septembre 2023
+Yonne;89;Exploitations viticoles;680;exploitations;2020;Exploitations viticoles;6;Agreste Bourgogne-Franche-Comte, Etudes n 66, septembre 2023
+Yonne;89;Surface en vignes;8220;ha;2020;Exploitations viticoles;6;Agreste Bourgogne-Franche-Comte, Etudes n 66, septembre 2023
+Bourgogne-Franche-Comte;;Part des exploitations viticoles avec au moins un exploitant de plus de 60 ans;20;% (un cinquieme);2020;Exploitations viticoles;6;Agreste Bourgogne-Franche-Comte, Etudes n 66, septembre 2023
+Bourgogne-Franche-Comte;;Part des grandes exploitations viticoles (exploitant de plus de 60 ans) avec reprise familiale deja prevue;44;%;2020;Exploitations viticoles;6;Agreste Bourgogne-Franche-Comte, Etudes n 66, septembre 2023
+France metropolitaine;;Chefs d'exploitation et coexploitants;496365;personnes;2020;Toutes specialisations;7;Insee, Transformations de l'agriculture, edition 2024
+France metropolitaine;;Age moyen des chefs d'exploitation, coexploitants et associes;51,4;ans;2020;Toutes specialisations;7;Insee, Transformations de l'agriculture, edition 2024
+Grand Est;;Part des viticulteurs 2019 concernes par un depart projete;52;%;2019-2029;Projection : simulation SRISE DRAAF Grand Est d'apres la MSA, installations constantes (moyenne 2016-2018);4;Agreste Grand Est, Dossiers n 1, juin 2021 (avec MSA)
+Grand Est;;Viticulteurs projetes au 1er janvier 2029;7400;personnes (environ);2029;Projection : simulation SRISE DRAAF Grand Est d'apres la MSA;4;Agreste Grand Est, Dossiers n 1, juin 2021 (avec MSA)
+Marne;51;Part de la viticulture dans les exploitants du departement;56;%;2019;MSA;4;Agreste Grand Est, Dossiers n 1, juin 2021 (avec MSA)
+Marne;51;Part des viticulteurs du Grand Est localises dans la Marne;59;%;2019;MSA;4;Agreste Grand Est, Dossiers n 1, juin 2021 (avec MSA)
+Bas-Rhin;67;Part des viticulteurs (arboriculture incluse) de 55 ans ou plus;43;%;2022;Agriculteurs exploitants en emploi (recensement de la population);5;Insee Analyses Grand Est n 218, juin 2026
+Haut-Rhin;68;Part des viticulteurs (arboriculture incluse) de 55 ans ou plus;39;%;2022;Agriculteurs exploitants en emploi (recensement de la population);5;Insee Analyses Grand Est n 218, juin 2026
+Grand Est;;Hausse de l'age moyen des conjoints coexploitants 2010-2020, toutes specialisations;3,2;ans;2020;Toutes specialisations;2;Agreste Grand Est, Panorama du recensement agricole 2020, vieillissement
+Aube;10;Taux de renouvellement en viticulture, lecture du tableau 1;1,68;ratio;2010-2020;Viticulture (installes 2010-2020 / exploitants de 60 ans et plus en 2010);3;Agreste Grand Est, Panorama du recensement agricole 2020, devenir de l'exploitation (tableau 1, note 5, valeur lue d'apres l'ordre des colonnes, ni taux de reprise ni rapport installations/departs)
+Marne;51;Taux de renouvellement en viticulture, lecture du tableau 1;0,99;ratio;2010-2020;Viticulture (installes 2010-2020 / exploitants de 60 ans et plus en 2010);3;Agreste Grand Est, Panorama du recensement agricole 2020, devenir de l'exploitation (tableau 1, note 5, valeur lue d'apres l'ordre des colonnes, ni taux de reprise ni rapport installations/departs)
+Grand Est;;Taux de renouvellement en viticulture, lecture du tableau 1;0,98;ratio;2010-2020;Viticulture (installes 2010-2020 / exploitants de 60 ans et plus en 2010);3;Agreste Grand Est, Panorama du recensement agricole 2020, devenir de l'exploitation (tableau 1, note 5, valeur lue d'apres l'ordre des colonnes, ni taux de reprise ni rapport installations/departs)
+Grand Est;;Taux de renouvellement toutes activites (installes / exploitants de 60 ans et plus en 2010);1,02;ratio;2011-2020;Toutes activites (10 000 installes / 9 800 exploitants de 60 ans et plus en 2010);3;Agreste Grand Est, Panorama du recensement agricole 2020, devenir de l'exploitation
